@@ -1,0 +1,11 @@
+Comme premier exo, tu vas devoir faire un do_op en js, la fonction aura le prototypage suivant :
+
+function do_op(nb1, nb2, op)
+
+Par exemple si je fais :
+
+do_op(20, 12, +)
+
+ça me renverra 32, il faut que tu gères :
+
++ - * / %
