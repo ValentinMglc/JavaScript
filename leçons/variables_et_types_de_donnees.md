@@ -88,7 +88,7 @@ score = 100; // Initialisation plus tard
 
 ## 4. Exercices pratiques
 
-Pour mettre en pratique ce que vous avez appris, consultez le dossier [exercices](./exercices/1.variables_et_types_de_données).
+Pour mettre en pratique ce que vous avez appris, consultez le dossier [exercices](./exercices/).
 
 ## Conclusion
 
