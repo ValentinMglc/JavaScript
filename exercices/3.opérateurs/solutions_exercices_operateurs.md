@@ -5,8 +5,8 @@
 let a = 10;
 let b = 5;
 
-console.log("Somme:", a + b);         // Somme: 15
-console.log("Différence:", a - b);    // Différence: 5
+console.log("Somme:", a + b);          // Somme: 15
+console.log("Différence:", a - b);     // Différence: 5
 console.log("Produit:", a * b);        // Produit: 50
 console.log("Division:", a / b);       // Division: 2
 console.log("Reste:", a % b);          // Reste: 0
