@@ -88,30 +88,7 @@ score = 100; // Initialisation plus tard
 
 ## 4. Exercices pratiques
 
-À la fin de cette leçon, essayez ces exercices :
-
-1. Déclarez une variable pour stocker votre nom et affichez-la dans la console.
-2. Créez une variable pour stocker votre âge et une autre pour indiquer si vous êtes étudiant (boolean).
-3. Déclarez un objet `voiture` avec des propriétés `marque`, `modèle`, et `année`.
-
-### Exemple de solution
-
-```javascript
-// Exercice 1
-let monNom = "VotreNom";
-console.log(monNom);
-
-// Exercice 2
-let monAge = 30;
-let estEtudiant = false;
-
-// Exercice 3
-let voiture = {
-    marque: "Toyota",
-    modèle: "Corolla",
-    année: 2020
-};
-```
+Pour mettre en pratique ce que vous avez appris, consultez le dossier [exercices](./exercices/1.variables_et_types_de_données).
 
 ## Conclusion
 
