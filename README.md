@@ -82,7 +82,7 @@ Apprenez à organiser votre code en utilisant des modules pour améliorer la lis
 
 ## Wiki ou discussions
 
-Utilisez les fonctionnalités de GitHub pour créer un [wiki](https://docs.github.com/en/github/writing-on-github/about-wikis) ou des discussions afin que les apprenants puissent poser des questions et échanger des idées.
+Wiki
 
 ## Contribuer
 
@@ -90,7 +90,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez ajouter des leçons ou
 
 ## Licence
 
-Ce projet est sous licence MIT.
+Ce projet est sous licence.
 
 ---
 
