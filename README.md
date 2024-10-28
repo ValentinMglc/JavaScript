@@ -30,13 +30,19 @@ Le JavaScript est un langage de programmation dynamique utilisé principalement 
 
 Dans cette leçon, vous apprendrez à déclarer des variables et à utiliser différents types de données en JavaScript, tels que les chaînes de caractères, les nombres, les booléens, etc.
 
+Consultez [la leçon](./leçons/variables_et_types_de_donnees.md)
+
 ## Opérateurs
 
 Nous aborderons les différents types d'opérateurs disponibles en JavaScript, y compris les opérateurs arithmétiques, logiques et relationnels, pour effectuer des calculs et des comparaisons.
 
+Consultez [la leçon](./leçons/operateurs.md)
+
 ## Structures conditionnelles
 
 Cette leçon couvrira l'utilisation des structures conditionnelles (`if`, `else`, `switch`) pour prendre des décisions dans votre code en fonction de conditions spécifiques.
+
+Consultez [la leçon](./leçons/structures_conditionnelles.md)
 
 ## Boucles
 
