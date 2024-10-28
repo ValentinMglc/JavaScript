@@ -102,7 +102,7 @@ console.log(a); // 13
 
 ## 5. Exercices pratiques
 
-Pour mettre en pratique ce que vous avez appris, consultez le dossier [exercices](./exercices/).
+Pour mettre en pratique ce que vous avez appris, consultez le dossier [exercices](../exercices/).
 
 ## Conclusion
 
